@@ -1173,12 +1173,12 @@ break
                     let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://youtube.com/channel/UCjzlh0Uhz8KJYZnZ0BVN35w'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Group Bot',
+                                    url: 'https://chat.whatsapp.com/CDHRtY4JP2TD1XpF96wQLR'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1192,8 +1192,8 @@ break
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'sewabot',
+                                    id: 'Sewabot'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -1212,12 +1212,12 @@ break
 		    let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://youtube.com/channel/UCjzlh0Uhz8KJYZnZ0BVN35w'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Group Bot',
+                                    url: 'https://chat.whatsapp.com/CDHRtY4JP2TD1XpF96wQLR'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -1231,8 +1231,8 @@ break
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'sewabot',
+                                    id: 'Sewabot'
                                 }
                             }]
                       let txt = `「 Broadcast Bot 」\n\n${text}`
@@ -3108,12 +3108,12 @@ let capt = `⭔ Title: ${judul}
                 let btn = [{
                                 urlButton: {
                                     displayText: 'Source Code',
-                                    url: 'https://github.com/DikaArdnt/Hisoka-Morou'
+                                    url: 'https://github.com/DikaArdnt/Hisoka-https://youtube.com/channel/UCjzlh0Uhz8KJYZnZ0BVN35w'
                                 }
                             }, {
-                                callButton: {
-                                    displayText: 'Number Phone Owner',
-                                    phoneNumber: '+62 882-9202-4190'
+                                urlButton: {
+                                    displayText: 'Group Bot',
+                                    url: 'https://chat.whatsapp.com/CDHRtY4JP2TD1XpF96wQLR'
                                 }
                             }, {
                                 quickReplyButton: {
@@ -3127,8 +3127,8 @@ let capt = `⭔ Title: ${judul}
                                 }  
                             }, {
                                 quickReplyButton: {
-                                    displayText: 'Script',
-                                    id: 'sc'
+                                    displayText: 'sewabot',
+                                    id: 'Sewabot'
                                 }
                             }]
                          let setbot = db.data.settings[botNumber]
